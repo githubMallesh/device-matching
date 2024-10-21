@@ -24,7 +24,7 @@ This project is a backend service for a **Device Matching API** built using **Ja
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/vinjamurimall_grmn/device-matching
+git clone [https://github.com/vinjamurimall_grmn/device-matching](https://github.com/githubMallesh/device-matching.git)
 cd device-matching-backend
 ```
 
